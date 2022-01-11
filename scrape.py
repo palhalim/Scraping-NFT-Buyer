@@ -1,3 +1,6 @@
+'''
+Scraping by @paltoonMy on twitter, pls donate for continuous maintenance of this repository.
+'''
 import time
 from selenium import webdriver
 from bs4 import BeautifulSoup
